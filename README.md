@@ -2,4 +2,4 @@
 
 Halloween theme for Atom
 
-*Project inspired by [@afonsopacifer](https://github.com/afonsopacifer/) [Pumpkin Theme](https://github.com/afonsopacifer/pumpkin). 
+*Project inspired by [@afonsopacifer](https://github.com/afonsopacifer/) [Pumpkin Theme](https://github.com/afonsopacifer/pumpkin).*
