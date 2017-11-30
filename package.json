@@ -1,13 +1,14 @@
 {
-  "name": "pumpkin-syntax-theme",
-  "theme": "syntax",
+  "name": "pumpkin-syntax-theme-atom",
+  "theme": "Pumpkin",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Halloween theme for Atom",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "pumpkin"
   ],
-  "repository": "https://github.com/atom/pumpkin-syntax-theme",
+  "repository": "https://github.com/giovannism20/pumpkin-syntax-theme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
